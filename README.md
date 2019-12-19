@@ -1,6 +1,8 @@
 # AudioLoop-Unity
 V.1.0
 
+Trying to make this audio function, maybe will helps your problem. 
+
 Export Package : [TW Audio](http://bit.ly/TW-Audio)
 
 ## Documentation
